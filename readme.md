@@ -1,3 +1,5 @@
 ## Most used ascii characters
 
-I made this by accident. It is the most used ascii characters based on most medical articles on wikipedia.
+Made by accident, the source data is wikipedia.
+
+[" ", "e", "a", "t", "i", "o", "n", "s", "r", "l", "h", "c", "d", "u", "m", "p", "f", "g", "y", "b", ",", "v", "w", "k", "T", "A", "x", "S", "0", "-", "C", "I", "1", ")", "(", "P", "M", "\"", "2", "D", "H", "z", "B", "E", "9", "N", "R", "F", "q", "=", "O", "L", "5", "G", "j", "3", "U", "8", "W", "4", "6", ":", "7", ";", "J", "V", "K", "%", "/", "Y", "{", "}", "Z", "+", "Q", "\\", "X", "]", "[", "$", "&", "_", "?", ">", "^", "~", "<", "!", "*", "|", "#", "`", "@"]
